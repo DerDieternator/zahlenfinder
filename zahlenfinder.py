@@ -11,3 +11,5 @@ def zahlen_finder(text_datei):
 
 dateiname = input("Bitte den Dateipfad samt Dateinamen eingeben: ")
 zahlen_finder(dateiname)
+# Zahlenfinder
+# Nervt mich das
